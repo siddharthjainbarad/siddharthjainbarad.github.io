@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.androfrenzy.quizvault",
+      "sha256_cert_fingerprints": [
+        "B5:51:55:19:24:22:90:62:E7:A0:39:83:8F:BA:57:F3:55:18:37:DD:82:91:8F:E8:09:6C:1B:94:AA:B9:3B:9B"
+      ]
+    }
+  }
+]
